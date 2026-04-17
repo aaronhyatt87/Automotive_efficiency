@@ -4,7 +4,6 @@ xgboost
 streamlit
 ultralytics
 ollama
-jupyter
 matplotlib
 seaborn
 langchain

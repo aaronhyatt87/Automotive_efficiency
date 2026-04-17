@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import joblib
-from utils import process_image_yolo, setup_rag, prepare_context
+from app_utils import process_image_yolo, setup_rag, prepare_context
 import matplotlib.pyplot as plt
 import os
 

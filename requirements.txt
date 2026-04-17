@@ -10,3 +10,4 @@ seaborn
 langchain
 faiss-cpu
 langchain-community
+opencv-python-headless
